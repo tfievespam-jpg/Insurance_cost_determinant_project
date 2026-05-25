@@ -75,6 +75,3 @@ docker run -p 8888:8888 insurance_project
 
 Open http://localhost:8888 and run notebooks/analysis_v2.ipynb.
 
-### Tableau Dashboard
-
-https://public.tableau.com/app/profile/thibault.fieve/viz/ESLSCAProject/Dashboard2
